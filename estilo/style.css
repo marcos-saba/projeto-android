@@ -71,6 +71,7 @@ header {
     line-height: 1.5em;
     padding-top: 10px;
     padding-bottom: 30px;
+    margin: auto;
     /*
         opcional:
         max-width: 600px;
